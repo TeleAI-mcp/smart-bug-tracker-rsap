@@ -1,2 +1,3 @@
-# smart-bug-tracker-rsap
-SaaS product repository with automated issue commenting
+# Smart Bug Tracker Rsap
+
+Automated issue comment bot repository.
